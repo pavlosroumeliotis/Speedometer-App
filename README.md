@@ -1,7 +1,7 @@
 # Speedometer-App
-Android App for University Project
-<--IN PROGRESS-->
+<p>Android App for University Project</p>
+<p>STILL IN PROGRESS</p>
 
-<--TO DO-->
--DESCRIPTION
--SCREENSHOTS
+## TO DO
+- DESCRIPTION
+- SCREENSHOTS
