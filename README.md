@@ -3,5 +3,5 @@
 <p>STILL IN PROGRESS</p>
 
 ## TO DO
-- DESCRIPTION
-- SCREENSHOTS
+- Description
+- Screenshots
