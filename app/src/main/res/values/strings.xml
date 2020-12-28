@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Speedometer</string>
+    <string name="default_speed">ΑΝΑΜΟΝΗ ΓΙΑ ΕΚΚΙΝΗΣΗ</string>
+    <string name="start">ΕΚΚΙΝΗΣΗ</string>
+    <string name="limit">ΟΡΙΟ ΤΑΧΥΤΗΤΑΣ</string>
+    <string name="history">ΙΣΤΟΡΙΚΟ ΠΑΡΑΒΑΣΕΩΝ</string>
+    <string name="mic">ΜΙΚΡΟΦΩΝΟ</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
